@@ -11,3 +11,30 @@
 #paymentinfo{
     
 }
+
+.confirmdetail img{
+    width: 50%;
+}
+.confirmdetail
+{
+    background-color: rgb(132,136,139);
+    margin: auto;
+    margin-top: 2%;
+    width: 50%;
+    padding-bottom: 8px;
+}
+
+.totalamount{
+    border-style:solid;
+    border-width: 1px;
+    padding: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#logintap,#footer_nav{
+    background-color: rosybrown;
+}
+body{
+    background-color: #e0e0e0;
+}

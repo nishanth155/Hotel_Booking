@@ -8,6 +8,19 @@
     height: 2%;
 }
 
-#listhotel{
-    
+.blu img,.Lalit img,.taj img{
+    width: 50%;
+    height: 50%;
+}   
+#logintap,#footer_nav{
+    background-color: rosybrown;
 }
+body{
+    background-color: #e0e0e0;
+}
+
+.blu,.Lalit,.taj{
+    background-color: rgb(132,136,139);
+    width: 30%;
+}
+

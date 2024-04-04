@@ -4,6 +4,8 @@
 }
 
 #homepage img{
+    margin: 2%;
+    border-radius: 15%;
     width: 300px;
     height: 300px;
 }
@@ -11,4 +13,21 @@
 #footer_nav img{
     width: 2%;
     height: 2%;
+}
+
+#logintap,#footer_nav{
+    background-color: rosybrown;
+}
+body{
+    background-color: #e0e0e0;
+}
+
+#searchbar{
+    padding-bottom: 10%;
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg");  
+}
+
+#homepage{
+    align-content: center;
+    margin: 8%;
 }
