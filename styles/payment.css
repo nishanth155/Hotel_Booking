@@ -1,11 +1,33 @@
 #logintap img{
-    width: 10%;
-    height: 10%;
+    width: 7%;
+    height: 7%;
 }
 
 #footer_nav img{
+    float: right;
     width: 2%;
     height: 2%;
+}
+
+#footer_nav p{
+    text-align: center;
+}
+
+.contact{
+
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+#logintap a{
+    padding-top:3%;
+    padding-right: 1%;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: 'ubuntu';
 }
 
 #paymentinfo{
